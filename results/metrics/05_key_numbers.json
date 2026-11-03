@@ -1,0 +1,13 @@
+{
+  "best_hybrid_core": "hyb_san_svr",
+  "best_hybrid_core_day_rmse": 0.1376,
+  "best_direct_core": "mlp",
+  "best_direct_core_day_rmse": 0.1396,
+  "oracle_san_day_rmse": 0.0236,
+  "oracle_san_floor_day_rmse": 0.019,
+  "param_r2_best": {
+    "tau": 0.646,
+    "b": 0.513
+  },
+  "n_trials": 15
+}

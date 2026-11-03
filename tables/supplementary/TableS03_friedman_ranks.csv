@@ -1,0 +1,16 @@
+Model,Mean rank,p vs best,p (Holm)
+SVR,6.0,,
+Hybrid San + polynomial ridge,6.09,0.946,1.0
+Hybrid San + SVR,6.14,0.919,1.0
+MLP,6.32,0.813,1.0
+Polynomial ridge,6.41,0.762,1.0
+Hybrid San + linear,7.41,0.296,1.0
+Hybrid San + MLP,7.5,0.266,1.0
+Hybrid San + extra trees,7.55,0.252,1.0
+Linear,8.0,0.138,1.0
+Gradient boosting,8.23,0.099,0.887
+Random forest,8.45,0.069,0.756
+TabPFN,8.45,0.069,0.756
+Extra trees,8.55,0.059,0.709
+Baseline (time mean),11.55,0.0,0.001
+Gaussian process,13.36,0.0,0.0

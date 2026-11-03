@@ -1,0 +1,41 @@
+Inputs,Model,Per-day RMSE (log10 NTU),95 % CI,R² (new day),Rising curves (%),R² (random split)
+core,Hybrid San + SVR,0.138,0.109 to 0.172,0.68,0.0,
+core,Hybrid San-floor + linear,0.139,0.108 to 0.174,0.69,0.0,
+core,MLP,0.14,0.109 to 0.176,0.68,2.4,0.74
+core,Hybrid San + polynomial ridge,0.141,0.112 to 0.176,0.67,0.0,
+core,Polynomial ridge,0.142,0.110 to 0.178,0.67,0.6,0.74
+core,SVR,0.142,0.111 to 0.176,0.68,0.0,0.73
+core,Hybrid San-floor + polynomial ridge,0.144,0.112 to 0.181,0.66,0.0,
+core,Hybrid San-floor + SVR,0.148,0.115 to 0.184,0.65,0.0,
+core,Hybrid San + MLP,0.148,0.118 to 0.182,0.66,0.0,
+core,Hybrid San-floor + extra trees,0.151,0.119 to 0.183,0.65,0.0,
+core,Hybrid San + linear,0.151,0.120 to 0.186,0.66,0.0,
+core,Linear,0.151,0.120 to 0.185,0.65,0.0,0.69
+core,Hybrid San + extra trees,0.151,0.123 to 0.182,0.65,0.0,
+core,Hybrid San-floor + MLP,0.154,0.120 to 0.194,0.61,0.0,
+core,Gradient boosting,0.155,0.127 to 0.187,0.61,0.0,0.98
+core,Random forest,0.157,0.127 to 0.188,0.63,0.0,0.91
+core,Extra trees,0.157,0.128 to 0.189,0.62,0.0,0.89
+core,TabPFN,0.159,0.127 to 0.192,0.61,0.0,0.99
+core,Baseline (time mean),0.262,0.207 to 0.315,0.01,0.0,0.08
+core,Gaussian process,0.281,0.246 to 0.315,-0.0,13.7,0.99
+full,Hybrid San + extra trees,0.119,0.093 to 0.145,0.78,0.0,
+full,Extra trees,0.119,0.093 to 0.149,0.77,0.0,
+full,Hybrid San-floor + extra trees,0.121,0.094 to 0.151,0.77,0.0,
+full,TabPFN,0.121,0.095 to 0.152,0.76,0.0,
+full,SVR,0.123,0.100 to 0.148,0.75,0.0,
+full,Gradient boosting,0.128,0.102 to 0.154,0.72,0.0,
+full,Hybrid San-floor + linear,0.129,0.102 to 0.157,0.7,0.0,
+full,Hybrid San + MLP,0.129,0.104 to 0.155,0.74,0.0,
+full,Hybrid San + SVR,0.129,0.104 to 0.156,0.73,0.0,
+full,Hybrid San-floor + SVR,0.13,0.103 to 0.158,0.72,0.0,
+full,Linear,0.13,0.108 to 0.155,0.73,0.0,
+full,Hybrid San + linear,0.132,0.105 to 0.160,0.7,0.0,
+full,Hybrid San-floor + polynomial ridge,0.135,0.109 to 0.162,0.7,0.0,
+full,Random forest,0.136,0.106 to 0.168,0.72,0.0,
+full,Polynomial ridge,0.137,0.114 to 0.161,0.7,0.0,
+full,Hybrid San-floor + MLP,0.14,0.111 to 0.173,0.69,0.0,
+full,Hybrid San + polynomial ridge,0.145,0.118 to 0.173,0.65,0.0,
+full,MLP,0.16,0.118 to 0.210,0.43,3.6,
+full,Gaussian process,0.23,0.194 to 0.265,0.28,14.9,
+full,Baseline (time mean),0.262,0.207 to 0.316,0.01,0.0,

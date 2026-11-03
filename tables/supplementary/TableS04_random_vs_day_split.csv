@@ -1,0 +1,11 @@
+Model,Random split RMSE,Day split RMSE,Ratio,"Rank, random","Rank, day split"
+MLP,0.126,0.14,1.11,6,1
+Polynomial ridge,0.128,0.142,1.11,8,2
+SVR,0.127,0.142,1.12,7,3
+Linear,0.144,0.151,1.05,9,4
+Gradient boosting,0.042,0.155,3.73,3,5
+Random forest,0.078,0.157,2.02,4,6
+Extra trees,0.085,0.157,1.86,5,7
+TabPFN,0.023,0.159,6.89,1,8
+Baseline (time mean),0.254,0.262,1.03,10,9
+Gaussian process,0.026,0.281,10.64,2,10

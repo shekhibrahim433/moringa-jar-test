@@ -1,0 +1,22 @@
+{
+  "rows": 3528,
+  "runs": 168,
+  "days": 22,
+  "missing_cells": 0,
+  "exact_duplicate_rows": 0,
+  "repeated_conditions": 2,
+  "replicate_cv_median_0min": 1.93,
+  "replicate_cv_median_10_60min": 3.09,
+  "replicate_cv_max": 19.69,
+  "rep_z_gt_3.5_rows": 26,
+  "t0_flag_runs": 5,
+  "runs_with_rise_any": 25,
+  "runs_with_rise_z_gt_2": 11,
+  "rem60_min": 10.7,
+  "rem60_median": 77.0,
+  "rem60_max": 94.4,
+  "icc_log_T60": 0.752,
+  "icc_rem60": 0.695,
+  "best_dose_interior_days": 16,
+  "days_unseen_setting": 8
+}

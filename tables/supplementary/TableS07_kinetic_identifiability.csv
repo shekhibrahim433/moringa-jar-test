@@ -1,0 +1,17 @@
+Model,Parameter,Median,10th to 90th percentile,At bound (%),Median relative SE
+no floor,k,0.028,0.011 to 0.05,0.0,0.047
+first order,k,0.052,0.012 to 0.122,0.0,0.071
+first order,f,0.107,0.0 to 0.262,22.0,0.058
+first order lag,k,0.063,0.022 to 0.122,0.0,0.143
+first order lag,f,0.174,0.069 to 0.38,6.0,0.062
+first order lag,lag,1.366,0.0 to 14.162,48.8,0.186
+stretched,k,0.049,0.024 to 0.18,0.0,0.058
+stretched,f,0.17,0.031 to 0.479,5.4,0.099
+stretched,beta,1.054,0.48 to 2.29,3.0,0.092
+second order,k,0.075,0.014 to 0.252,0.0,0.144
+second order,f,0.0,0.0 to 0.112,58.9,0.128
+san,tau,18.094,3.52 to 58.671,0.0,0.042
+san,b,1.136,0.705 to 1.916,0.0,0.051
+san floor,tau,15.611,3.743 to 38.312,0.0,0.076
+san floor,b,1.565,0.84 to 2.91,3.0,0.122
+san floor,f,0.091,0.0 to 0.433,20.2,0.225

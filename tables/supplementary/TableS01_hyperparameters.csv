@@ -1,0 +1,24 @@
+Model,Hyperparameter,Median (range) over 22 folds
+Extra trees,max_features,0.602 (0.513 to 0.602)
+Extra trees,min_samples_leaf,6 (2 to 6)
+Extra trees,max_depth,None
+Gradient boosting,learning_rate,0.0104 (0.0104 to 0.017)
+Gradient boosting,max_leaf_nodes,4 (4 to 5)
+Gradient boosting,min_samples_leaf,39 (39 to 44)
+Gradient boosting,l2_regularization,1.43 (0.254 to 1.43)
+Gradient boosting,max_iter,561 (400 to 561)
+MLP,width,51 (9 to 62)
+MLP,depth,2 (1 to 3)
+MLP,alpha,0.00101 (1.21e-05 to 0.0887)
+MLP,learning_rate_init,0.000233 (0.000106 to 0.00871)
+Random forest,max_features,0.602 (0.423 to 0.602)
+Random forest,min_samples_leaf,6 (6 to 9)
+Random forest,max_depth,8
+Polynomial ridge,degree,2
+Polynomial ridge,alpha,2.51 (0.00559 to 27.9)
+SVR,C,20.6 (0.529 to 50)
+SVR,gamma,0.00748 (0.00434 to 0.048)
+SVR,epsilon,0.0167 (0.00231 to 0.0497)
+Hybrid San + SVR,C,24.8 (0.791 to 40.9)
+Hybrid San + SVR,gamma,0.0312 (0.0123 to 0.911)
+Hybrid San + SVR,epsilon,0.00452 (0.00102 to 0.0525)

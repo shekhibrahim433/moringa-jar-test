@@ -1,0 +1,11 @@
+fold,max_features,min_samples_leaf,max_depth,model,fset,split
+0,0.9093455478422849,1,,et,core,random
+1,0.6826971955402957,4,,et,core,random
+2,0.9093455478422849,1,,et,core,random
+3,0.9093455478422849,1,,et,core,random
+4,0.9983382608072805,1,,et,core,random
+5,0.9839734773480244,1,,et,core,random
+6,0.9093455478422849,1,,et,core,random
+7,0.6826971955402957,4,,et,core,random
+8,0.4747377315888327,1,,et,core,random
+9,0.9093455478422849,1,,et,core,random

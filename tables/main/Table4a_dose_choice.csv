@@ -1,0 +1,8 @@
+Strategy,Mean shortfall (pp),Median shortfall (pp),Days within 2 pp (%),Mean dose chosen (mg/L),Mean dose minus best dose (mg/L)
+fixed (median best dose of other days),1.09,0.19,77.0,100.0,-23.0
+TabPFN,2.17,0.94,55.0,98.0,-26.0
+"hybrid, lowest within 2 pp",2.26,0.76,59.0,82.0,-41.0
+SVR,2.28,0.76,59.0,81.0,-43.0
+MLP,2.44,0.91,55.0,86.0,-38.0
+hybrid San + SVR,2.85,0.91,59.0,93.0,-31.0
+random tested dose,8.41,4.93,18.0,168.0,45.0

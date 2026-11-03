@@ -1,0 +1,4 @@
+fset,split,model,rmse_log,mae_log,r2_log,rmse_ntu,mape,day_rmse_mean,day_rmse_sd,rmse_log_60,mae_removal60_pp,coverage_90,width_90_log
+core,lodo,tabpfn,0.1762,0.1383,0.6055,21.948,33.1059,0.1592,0.0808,0.2099,8.7637,0.8016,0.5036
+core,random,tabpfn,0.0235,0.0174,0.993,3.3736,4.0292,0.0231,0.0077,0.0224,1.0143,0.9107,0.0741
+full,lodo,tabpfn,0.1364,0.1023,0.7637,17.2328,24.3528,0.1215,0.0691,0.1693,7.6424,0.8601,0.4855

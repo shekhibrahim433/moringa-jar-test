@@ -1,0 +1,8 @@
+{
+  "noise_cell_log10": 0.0114,
+  "best_core_lodo": "mlp",
+  "best_core_lodo_day_rmse": 0.1396,
+  "sed_mean_core_lodo_day_rmse": 0.2616,
+  "random_over_lodo_median": 0.892,
+  "n_trials": 15
+}

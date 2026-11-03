@@ -1,0 +1,13 @@
+Item,Value
+Sampling days,22
+Jars (runs),168
+Turbidity readings,3528
+Replicates per jar and time,3
+Settling times (min),"0, 10, 20, 30, 40, 50, 60"
+Coagulant dose (mg/L),40 to 350
+"Raw-water turbidity, batch median (NTU)",26.5 to 263.2
+Mixing speed (rpm),"82, 121, 151"
+Mixing time (s),71 to 450
+"Removal at 60 min, median (range) (%)",77.0 (10.7 to 94.4)
+"Replicate CV, median at 10 to 60 min (%)",3.09
+"Share of variance between days, log10 T at 60 min",0.752

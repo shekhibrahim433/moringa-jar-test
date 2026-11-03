@@ -1,0 +1,4 @@
+Calibration,Mean per-day RMSE (log10 NTU),Days improved
+none,0.1373,0
+"one jar, all times",0.1153,12
+"one jar, 10 min only",0.1236,13

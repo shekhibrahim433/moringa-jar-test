@@ -1,0 +1,8 @@
+strategy,mean_regret_pp,median_regret_pp,share_within_2pp,mean_dose,mean_dose_minus_best
+fixed (median best dose of other days),1.0855,0.1856,0.7727,100.4545,-23.4091
+TabPFN,2.1684,0.9437,0.5455,97.7273,-26.1364
+"hybrid, lowest within 2 pp",2.259,0.7604,0.5909,82.5,-41.3636
+SVR,2.2808,0.7604,0.5909,81.1364,-42.7273
+MLP,2.4367,0.9137,0.5455,86.1364,-37.7273
+hybrid San + SVR,2.8453,0.9137,0.5909,92.7273,-31.1364
+random tested dose,8.4071,4.9329,0.1818,168.4917,44.6281

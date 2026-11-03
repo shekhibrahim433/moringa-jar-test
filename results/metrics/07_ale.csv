@@ -1,0 +1,97 @@
+model,feature,x,ale
+ET core,dose,40.0,0.00512
+ET core,dose,85.0,-0.04432
+ET core,dose,100.0,-0.02447
+ET core,dose,115.0,-0.05975
+ET core,dose,140.0,-0.04514
+ET core,dose,150.0,-0.01792
+ET core,dose,160.0,-0.0429
+ET core,dose,200.0,0.03219
+ET core,dose,250.0,0.08106
+ET core,dose,300.0,0.1206
+ET core,dose,350.0,0.14719
+ET core,log_t0_raw,1.42379,0.24688
+ET core,log_t0_raw,1.44065,0.26383
+ET core,log_t0_raw,1.6017,0.20325
+ET core,log_t0_raw,1.92857,-0.01256
+ET core,log_t0_raw,1.98325,0.02626
+ET core,log_t0_raw,2.18968,0.00158
+ET core,log_t0_raw,2.26869,-0.08143
+ET core,log_t0_raw,2.29725,-0.13055
+ET core,log_t0_raw,2.35122,-0.10198
+ET core,log_t0_raw,2.41246,-0.25848
+ET core,log_t0_raw,2.42023,-0.21544
+ET core,sed,10.0,0.18732
+ET core,sed,20.0,0.06623
+ET core,sed,30.0,-0.0218
+ET core,sed,35.0,-0.0218
+ET core,sed,40.0,-0.05955
+ET core,sed,50.0,-0.12142
+ET core,sed,60.0,-0.1678
+ET full,dose,40.0,-0.01891
+ET full,dose,85.0,-0.02739
+ET full,dose,100.0,-0.02714
+ET full,dose,115.0,-0.02806
+ET full,dose,140.0,-0.02214
+ET full,dose,150.0,-0.01926
+ET full,dose,160.0,-0.01695
+ET full,dose,200.0,0.01436
+ET full,dose,250.0,0.0513
+ET full,dose,300.0,0.08636
+ET full,dose,350.0,0.11111
+ET full,log_t0_raw,1.42379,0.27066
+ET full,log_t0_raw,1.44065,0.29843
+ET full,log_t0_raw,1.6017,0.23181
+ET full,log_t0_raw,1.92857,-0.06922
+ET full,log_t0_raw,1.98325,-0.00153
+ET full,log_t0_raw,2.18968,-0.02491
+ET full,log_t0_raw,2.26869,-0.10207
+ET full,log_t0_raw,2.29725,-0.12314
+ET full,log_t0_raw,2.35122,-0.14368
+ET full,log_t0_raw,2.41246,-0.19114
+ET full,log_t0_raw,2.42023,-0.13844
+ET full,sed,10.0,0.21597
+ET full,sed,20.0,0.072
+ET full,sed,30.0,-0.03254
+ET full,sed,35.0,-0.03254
+ET full,sed,40.0,-0.07105
+ET full,sed,50.0,-0.13223
+ET full,sed,60.0,-0.17629
+ET full,speed,82.0,-0.05389
+ET full,speed,121.0,0.04288
+ET full,speed,151.0,0.02323
+ET full,mtime,71.0,0.0759
+ET full,mtime,120.0,0.03287
+ET full,mtime,150.0,0.01573
+ET full,mtime,250.0,-0.02438
+ET full,mtime,300.0,-0.02282
+ET full,mtime,450.0,-0.04964
+Hybrid San + SVR,dose,40.0,-0.09777
+Hybrid San + SVR,dose,85.0,-0.09298
+Hybrid San + SVR,dose,100.0,-0.08356
+Hybrid San + SVR,dose,115.0,-0.06659
+Hybrid San + SVR,dose,140.0,-0.03945
+Hybrid San + SVR,dose,150.0,-0.02566
+Hybrid San + SVR,dose,160.0,-0.00971
+Hybrid San + SVR,dose,200.0,0.05121
+Hybrid San + SVR,dose,250.0,0.12977
+Hybrid San + SVR,dose,300.0,0.19774
+Hybrid San + SVR,dose,350.0,0.2486
+Hybrid San + SVR,log_t0_raw,1.42379,0.3374
+Hybrid San + SVR,log_t0_raw,1.44065,0.33384
+Hybrid San + SVR,log_t0_raw,1.6017,0.28388
+Hybrid San + SVR,log_t0_raw,1.92857,0.0769
+Hybrid San + SVR,log_t0_raw,1.98325,0.03672
+Hybrid San + SVR,log_t0_raw,2.18968,-0.10452
+Hybrid San + SVR,log_t0_raw,2.26869,-0.15333
+Hybrid San + SVR,log_t0_raw,2.29725,-0.17229
+Hybrid San + SVR,log_t0_raw,2.35122,-0.20334
+Hybrid San + SVR,log_t0_raw,2.41246,-0.23694
+Hybrid San + SVR,log_t0_raw,2.42023,-0.24124
+Hybrid San + SVR,sed,10.0,0.21374
+Hybrid San + SVR,sed,20.0,0.08095
+Hybrid San + SVR,sed,30.0,-0.02308
+Hybrid San + SVR,sed,35.0,-0.02308
+Hybrid San + SVR,sed,40.0,-0.06531
+Hybrid San + SVR,sed,50.0,-0.14183
+Hybrid San + SVR,sed,60.0,-0.20987

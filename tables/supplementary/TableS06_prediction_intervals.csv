@@ -1,0 +1,6 @@
+Model,Coverage of 90 % interval,Worst-day coverage,Mean width (log10 NTU)
+Hybrid San + SVR,0.894,0.139,0.524
+MLP,0.886,0.139,0.532
+SVR,0.883,0.083,0.525
+TabPFN,0.894,0.333,0.577
+tabpfn_quantiles,0.825,0.306,0.504

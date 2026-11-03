@@ -1,0 +1,33 @@
+{
+  "shap_share": {
+    "ET core": {
+      "dose": 0.189,
+      "log_t0_raw": 0.455,
+      "mtime": 0.0,
+      "sed": 0.356,
+      "speed": 0.0
+    },
+    "ET full": {
+      "dose": 0.095,
+      "log_t0_raw": 0.409,
+      "mtime": 0.07,
+      "sed": 0.296,
+      "speed": 0.13
+    },
+    "Hybrid San + SVR": {
+      "dose": 0.215,
+      "log_t0_raw": 0.459,
+      "mtime": 0.0,
+      "sed": 0.326,
+      "speed": 0.0
+    }
+  },
+  "tau_range_min": [
+    4.26,
+    93.85
+  ],
+  "b_range": [
+    0.726,
+    2.512
+  ]
+}

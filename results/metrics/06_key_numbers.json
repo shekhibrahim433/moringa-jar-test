@@ -1,0 +1,28 @@
+{
+  "friedman": {
+    "N": 22.0,
+    "k": 15.0,
+    "chi2": 65.32,
+    "F": 5.653,
+    "p": 1.042e-09,
+    "cd": 4.573
+  },
+  "best_ranked": "svr",
+  "not_different_from_best_holm": [
+    "hyb_san_ridge_poly",
+    "hyb_san_svr",
+    "mlp",
+    "ridge_poly",
+    "hyb_san_linear",
+    "hyb_san_mlp",
+    "hyb_san_et",
+    "linear",
+    "hgb",
+    "rf",
+    "tabpfn",
+    "et"
+  ],
+  "spearman_random_vs_lodo": -0.382,
+  "seen_days": 14,
+  "gain_seen_vs_unseen_p": 0.9734
+}

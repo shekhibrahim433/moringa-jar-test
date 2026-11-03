@@ -1,0 +1,11 @@
+a,b,mean_diff,median_diff,a_wins,p,p_holm
+hyb_san_linear,linear,-2e-05,-0.00067,12,0.94927,1.0
+hyb_san_ridge_poly,ridge_poly,-0.00057,-0.00136,12,0.44341,1.0
+hyb_san_svr,svr,-0.00417,0.00151,11,0.84859,1.0
+hyb_san_et,et,-0.00624,-0.0057,15,0.06342,0.57077
+hyb_san_mlp,mlp,0.0082,0.00865,8,0.10545,0.73817
+hyb_san_floor_linear,hyb_san_linear,-0.01166,-0.01285,17,0.03012,0.30118
+hyb_san_floor_ridge_poly,hyb_san_ridge_poly,0.003,0.00536,10,0.19822,1.0
+hyb_san_floor_svr,hyb_san_svr,0.01014,0.00786,8,0.07943,0.63542
+hyb_san_floor_et,hyb_san_et,-0.00063,-0.00283,14,0.61015,1.0
+hyb_san_floor_mlp,hyb_san_mlp,0.00634,0.00055,11,0.89874,1.0

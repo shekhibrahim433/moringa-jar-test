@@ -1,0 +1,11 @@
+Model A,Model B,Mean difference A minus B,Days A better (of 22),p,p (Holm)
+Hybrid San + linear,Linear,-0.0,12,0.949,1.0
+Hybrid San + polynomial ridge,Polynomial ridge,-0.0006,12,0.443,1.0
+Hybrid San + SVR,SVR,-0.0042,11,0.849,1.0
+Hybrid San + extra trees,Extra trees,-0.0062,15,0.063,0.571
+Hybrid San + MLP,MLP,0.0082,8,0.105,0.738
+Hybrid San-floor + linear,Hybrid San + linear,-0.0117,17,0.03,0.301
+Hybrid San-floor + polynomial ridge,Hybrid San + polynomial ridge,0.003,10,0.198,1.0
+Hybrid San-floor + SVR,Hybrid San + SVR,0.0101,8,0.079,0.635
+Hybrid San-floor + extra trees,Hybrid San + extra trees,-0.0006,14,0.61,1.0
+Hybrid San-floor + MLP,Hybrid San + MLP,0.0063,11,0.899,1.0

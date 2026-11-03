@@ -1,0 +1,6 @@
+Feature,ET core,ET full,Hybrid San + SVR
+Dose,0.189,0.095,0.215
+log10 raw turbidity,0.455,0.409,0.459
+Mixing time,,0.07,
+Settling time,0.356,0.296,0.326
+Mixing speed,,0.13,
