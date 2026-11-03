@@ -6,7 +6,7 @@ Machine learning analysis of bench-scale jar tests that use *Moringa oleifera* s
 
 Coutinho, L. F. N., Oliveira, D. S. de, and Donadel, C. B. (2026). Experimental jar test dataset for river water clarification using *Moringa oleifera*. *Data in Brief*, 69, 113341. https://doi.org/10.1016/j.dib.2026.113341
 
-The dataset (CC BY 4.0) is on Zenodo: https://doi.org/10.5281/zenodo.21652410. It is not redistributed here. Download `DataSet.xlsx` and place it in `data/raw/`.
+The dataset (CC BY 4.0) is on Zenodo: https://doi.org/10.5281/zenodo.22666483. It is not redistributed here. Download `DataSet.xlsx` and place it in `data/raw/`.
 
 ## Layout
 
